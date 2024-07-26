@@ -92,7 +92,7 @@ To run this locally do the following
 ## Usage
 
 <p align="center">SEE HOW FAR YOU CAN GO! </p>
-    <img src="imgs/preview.png" alt="Logo" width="1000" height="545">
+    <img src="imgs/preview.png" alt="Logo" width="1000" height="535">
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
