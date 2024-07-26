@@ -11,8 +11,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="imgs/kenny-lose.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/mutendisambaza/JumpOVOr">
+    <img src="imgs/title.gif" alt="Logo" width="800" height="253">
   </a>
 
 <h3 align="center">JumpOVOr</h3>
@@ -91,7 +91,9 @@ To run this locally do the following
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-SEE HOW FAR YOU CAN GO!
+<p align="center">SEE HOW FAR YOU CAN GO! </p>
+    <img src="imgs/preview.png" alt="Logo" width="1000" height="545">
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
