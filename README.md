@@ -15,7 +15,7 @@
     <img src="imgs/title.gif" alt="Logo" width="800" height="253">
   </a>
 
-<h3 align="center">JumpOVOr</h3>
+<h3 align="center">JumpOVOr Game</h3>
 
   <p align="center">
     a spin on the No Internet Chrome Dino Game
