@@ -20,8 +20,9 @@
   <p align="center">
     a spin on the No Internet Chrome Dino Game
     <br />
-    <a href="https://github.com/mutendisambaza/JumpOVOr"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/mutendisambaza/JumpOVOr">Explore the docs »</strong></a>
     <br />
+    <a href="http://jumpovor.com">CLICK ME TO PLAYYYY</strong></a>
     <br />
     <a href="https://github.com/mutendisambaza/JumpOVOr/blob/main/gameplay.mov">View Demo</a>
   </p>
