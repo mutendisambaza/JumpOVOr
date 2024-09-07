@@ -98,17 +98,18 @@ p{
 .kenny {
   --bottom: 0;
   position: absolute;  
-  left: 1%;
-  height: 35%;
+  left: 1%; 
+  height: 130px;
   bottom: calc(var(--bottom) * 1%);
 }
 
 .owl {
   position: absolute;
   left: calc(var(--left) * 1%);
-  height: 27%;
+  height: 100px;
   bottom: 0;
 }
+
 footer{
   position: absolute;
   display: grid;
@@ -120,6 +121,7 @@ footer{
   /* visibility:collapse; */
   z-index: 999999;
 }
+
 #creation-tag{
 visibility:collapse;
 }
