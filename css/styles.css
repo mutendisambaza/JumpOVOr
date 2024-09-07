@@ -106,7 +106,7 @@ p{
 .owl {
   position: absolute;
   left: calc(var(--left) * 1%);
-  height: 100px;
+  height: 80px;
   bottom: 0;
 }
 
